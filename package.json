@@ -1,8 +1,8 @@
 {
-  "name": "react-treeview",
+  "name": "react-treeview-light",
   "version": "0.4.7",
   "description": "Easy, light, flexible tree view made with React.",
-  "main": "lib/react-treeview.js",
+  "main": "lib/react-treeview-light.js",
   "directories": {
     "demos": "demos"
   },
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/leonachan1/react-treeview.git"
+    "url": "https://github.com/leonachan1/react-treeview-light.git"
   },
   "keywords": [
     "facebook",
@@ -31,9 +31,9 @@
   "author": "leonachan1",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leonachan1/react-treeview/issues"
+    "url": "https://github.com/leonachan1/react-treeview-light/issues"
   },
-  "homepage": "https://github.com/leonachan1/react-treeview",
+  "homepage": "https://github.com/leonachan1/react-treeview-light",
   "peerDependencies": {
     "react": ">=0.14.0"
   },
